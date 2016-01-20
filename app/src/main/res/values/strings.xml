@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">RingDingDong_Subway</string>
     <string name="action_settings">Settings</string>
     <!--/-->
         <string name="action_search">Search</string>
